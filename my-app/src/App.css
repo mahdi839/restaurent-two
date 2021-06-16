@@ -1,0 +1,511 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+html{
+  font-size: 62.5%;
+}
+
+
+.my-nav nav{
+ 
+
+  background:#ffff;
+  
+
+}
+nav .navul{
+  justify-content: center;
+}
+.my-nav .navul li {
+
+
+}
+nav .navul li a{
+  font-size: 1.7rem;
+  font-weight: bold;
+  color: black;
+}
+nav .navul li a:hover{
+  color: brown;
+  border-top: .2rem solid rgb(197, 164, 14);
+}
+.arrow{
+  display: flex;
+  flex-direction: row;
+}
+.arrow .arrow-icon{
+  font-size: 2.5rem;
+  margin-top: .5rem;
+}
+/* nav button{
+  width: 3rem;
+  background: transparent;
+  border: none;
+  outline: none;
+} */
+nav button .drop-icon{
+  font-size: 2rem;
+}
+
+.home-second{
+  width: 100%;
+  /* height: 70rem; */
+  background: #DCDAD7;
+}
+.Data{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10rem;
+  padding-bottom: 5rem;
+}
+
+.desc{
+  text-align: right;
+}
+.desc h1{
+  color: brown;
+  display: inline-block;
+  margin-bottom: 1.3rem;
+}
+.desc h4{
+  color: #60686C;
+  font-size: 1.7rem;
+  line-height: 2rem;
+}
+.img-div{
+  margin-left: 3.5rem;
+}
+.img-div img{
+  width: 6rem;
+  transition: all .5s;
+ 
+}
+.img-div img:hover{
+  transform: rotate(50deg);
+}
+
+.middle-image{
+  /* margin-top: 10rem; */
+ 
+}
+.container .heading{
+display: inline-block;
+  /* margin: 10rem 0 0 43rem; */
+  font-size: 3.5rem;
+}
+.bg-md{
+  width: 100%;
+  height: 90rem;
+  background-image: url('../src/images/bg2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.bg-md .desc-sign{
+  margin-top: 25rem;
+  color: white;
+  
+}
+.desc-sign h1{
+  font-size: 4rem;
+}
+.desc-sign h6{
+  display: inline-block;
+  margin-top: 3rem;
+  font-size: 2rem;
+  color: white;
+  line-height: 3rem;
+  word-spacing: .5rem;
+}
+.desc-sign h4{
+  font-size: 3rem;
+  color: white;
+  font-weight: bold;
+  padding-bottom: 5rem;
+}
+.caption-div{
+  margin: 0px 90rem 33rem 0px;
+}
+.caption-div h4{
+  font-size: 2rem;
+}
+.caption-div h1{
+  font-size: 6.5rem;
+  color: #B69C3D;
+}
+.caption-div h2{
+  font-size: 5rem;
+}
+.caption-div button{
+  width: 15rem;
+  height: 5rem;
+  border: none;
+  outline: none;
+  border-radius: 3rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+.caption-div button:hover{
+  background: black;
+  color: white;
+}
+.snd{
+  margin-bottom: 40rem;
+}
+.snd h4{
+  font-size: 2rem;
+}
+.snd h1{
+  font-size: 6.5rem;
+  color: #B69C3D;
+}
+.snd h2{
+  font-size: 5rem;
+}
+.snd button{
+  width: 15rem;
+  height: 5rem;
+  border: none;
+  outline: none;
+  border-radius: 3rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+.snd button:hover{
+  background: brown;
+  color: white;
+}
+.about-section{
+  background: #DCDAD7;
+  width: 100%;
+}
+.about-section .make{
+  margin-top: 10rem;
+  padding-bottom: 10rem;
+}
+.data-about{
+  display: flex;
+  flex-direction: row;
+  margin: 4rem;
+}
+.data-about h1{
+
+  display: inline-block;
+  margin-top: 10rem;
+
+}
+.main-about-data{
+  margin-top: 8rem;
+}
+.data-about .desc-make{
+  margin-left: 3rem;
+}
+.data-about .desc-make h2{
+  color: brown;
+}
+.data-about .desc-make h4{
+  font-size: 1.7rem;
+  color: #61696D;
+  font-weight: normal;
+}
+.main-about-data h1{
+  font-size: 3rem;
+}
+.bg-img-div{
+  position: relative;
+  background-image: url(./images/bg-sec.jpg);
+  height:60rem;
+  background-size: cover;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  opacity: .8;
+}
+/* .about-2{
+  max-height: 30rem;
+  max-width: 30rem;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+} */
+/* .bg-img-div button{
+  display: inline-block;
+ margin-left:92rem;
+}
+.all{
+  margin-top: 50rem;
+} */
+
+.bg-img-div  .all{
+  position: absolute;
+  margin: 20rem 0 0 30rem;
+  text-align: justify;
+}
+.all h5{
+  font-size: 3rem;
+  color: black;
+
+}
+.all h1{
+  font-size: 7rem;
+  color: #0b0c0c;
+  font-weight: bold;
+  font-family: 'Stint Ultra Condensed', cursive;
+}
+.all h2{
+  font-size: 4rem;
+  color: rgb(243, 79, 58);
+  font-weight: bold;
+}
+.all button{
+  width: 15rem;
+  height: 6rem;
+  border: none;
+  outline: none;
+  background: black;
+  color: white;
+  font-weight: bold;
+  margin-top: 3rem;
+  font-size: 2rem;
+  border-radius: 15rem;
+ 
+}
+.all button:hover{
+  background: brown;
+  
+}
+.main-product-div{
+  width: 100%;
+  position: relative;
+  
+}
+.menu-con{
+  display: flex;
+  flex-wrap: wrap;
+}
+.ourProducts{
+  width: 100%;
+  height: auto;
+}
+
+ .headline h1{
+  font-size: 5rem;
+  font-weight: normal;
+  color: brown;
+
+}
+.product-heading  h4{
+  font-size: 2rem;
+  font-weight: normal;
+  color: #61696D;
+  font-weight: 500;
+}
+
+.ourProducts .btn-menu{
+  display: flex;
+  flex-direction: row;
+  margin-left: 5rem;
+  margin-top: 10rem;
+  position: absolute;
+}
+.btn-menu button{
+  width: 15rem;
+  height: 4rem;
+
+ outline: none;
+ display: flex;
+ font-size: 2rem;
+ text-align: center;
+border-radius: 2rem;
+ margin-left: 2rem;
+background: rgb(250, 248, 248);
+color: black;
+border: .1rem solid brown;
+ justify-content: center;
+}
+.btn-menu button:focus{
+  background: brown;
+  color: white;
+  
+}
+.main-card{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20rem;
+  margin-left: 10rem;
+}
+
+.card{
+  width: 30rem;
+  height: 35rem;
+ transition: all .5s linear;
+ box-sizing: border-box;
+ position: relative;
+ margin-left: 10rem;
+ margin-bottom: 3rem;
+ margin-top: 3rem;
+
+}
+.card:hover{
+  transform: scale(1.05);
+  border: .2rem solid brown;
+ 
+}
+.card img{
+  height: 28rem;
+  margin-bottom: 3rem;
+}
+.checked {
+  color: orange;
+  font-size: 2rem;
+  margin-left: .7rem;
+}
+.card-body{
+ 
+  margin-left: 5rem;
+  box-sizing: border-box;
+}
+.card .jh{
+  margin-bottom: 2rem;
+}
+.inter-icon{
+  position: absolute;
+  width: 4rem;
+  height: 12rem;
+ 
+ margin-top: 23rem;
+ margin-left: 26rem;
+  background-color: brown;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ transition: all 1s linear;
+ display: none;
+}
+.card:hover .inter-icon{
+  display: block;
+  margin-top: 19rem;
+  justify-content: center;
+}
+.card:hover .shop{
+  display: block;
+  font-size: 2rem;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  margin-left: 1rem;
+
+}
+.inter-icon .shop{
+  font-size: 2rem;
+  margin-top: 1rem;
+  display: none;
+  
+}
+.main-fmenu{
+  width: 100%;
+ background: rgb(194, 188, 188);
+  position: relative;
+
+   
+ }
+.menu-heading{
+ 
+ 
+ 
+  text-align: center;
+
+}
+.Edit-menu{
+  position: absolute;
+ margin: 3rem 0 5rem  40rem;
+ 
+ 
+}
+.Edit-menu h1{
+  font-size: 3.5rem;
+  
+  color: brown;
+}
+.Edit-menu h6{
+  font-size: 2rem;
+  font-weight: normal;
+}
+.main-data-menu{
+  display: flex;
+  flex-direction: row;
+  margin: 3rem;
+}
+.data-desc{
+  max-width: 20rem;
+  margin-left: 5rem;
+}
+.data-desc h1{
+  color: brown;
+  font-weight: 400;
+}
+
+.data-desc h6{
+  font-size: 1.8rem;
+  color: #61696D;
+  font-weight: 350;
+}
+
+.root-data{
+ 
+  margin-top: 10rem;
+  margin-left: 15rem;
+ 
+}
+.two{
+  margin-right: 5rem;
+}
+.data-price{
+  margin-left: 3rem;
+  margin-top: 1.5rem;
+  color: brown;
+}
+.bordr-d{
+  height: 2rem;
+  width: 25rem;
+  border-bottom: .1rem dashed black;
+ margin-top: .8rem;
+}
+.div-footer{
+  width: 100%;
+  height: 50rem;
+  background: #000;
+  color: white;
+}
+.footer-data-div{
+  margin-top: 10rem;
+}
+.footer-data-div h1{
+  font-size: 3rem;
+}
+.footer-data-div h4{
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 200;
+  margin-bottom: 2rem;
+  line-height: 2rem;
+}
+.footer-desc{
+  margin-top: 3rem;
+  line-height: 2rem;
+}
