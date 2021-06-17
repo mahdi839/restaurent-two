@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/restaurent-two/static/css/main.bd37f1ed.chunk.css",
+    "main.js": "/restaurent-two/static/js/main.89435db3.chunk.js",
+    "main.js.map": "/restaurent-two/static/js/main.89435db3.chunk.js.map",
+    "runtime-main.js": "/restaurent-two/static/js/runtime-main.45af2610.js",
+    "runtime-main.js.map": "/restaurent-two/static/js/runtime-main.45af2610.js.map",
+    "static/css/2.7104760a.chunk.css": "/restaurent-two/static/css/2.7104760a.chunk.css",
+    "static/js/2.c4591fb1.chunk.js": "/restaurent-two/static/js/2.c4591fb1.chunk.js",
+    "static/js/2.c4591fb1.chunk.js.map": "/restaurent-two/static/js/2.c4591fb1.chunk.js.map",
+    "static/js/3.d39ec810.chunk.js": "/restaurent-two/static/js/3.d39ec810.chunk.js",
+    "static/js/3.d39ec810.chunk.js.map": "/restaurent-two/static/js/3.d39ec810.chunk.js.map",
+    "index.html": "/restaurent-two/index.html",
+    "static/css/2.7104760a.chunk.css.map": "/restaurent-two/static/css/2.7104760a.chunk.css.map",
+    "static/css/main.bd37f1ed.chunk.css.map": "/restaurent-two/static/css/main.bd37f1ed.chunk.css.map",
+    "static/js/2.c4591fb1.chunk.js.LICENSE.txt": "/restaurent-two/static/js/2.c4591fb1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/restaurent-two/static/media/bg2.6316c06c.jpg",
+    "static/media/bg.55d66174.jpg": "/restaurent-two/static/media/bg.55d66174.jpg",
+    "static/media/img-wh1.84e2bd96.jpg": "/restaurent-two/static/media/img-wh1.84e2bd96.jpg",
+    "static/media/img-wh2.84e2bd96.jpg": "/restaurent-two/static/media/img-wh2.84e2bd96.jpg",
+    "static/media/img-wh3.6e2d4b9d.jpg": "/restaurent-two/static/media/img-wh3.6e2d4b9d.jpg",
+    "static/media/logo.f3bfc7cf.png": "/restaurent-two/static/media/logo.f3bfc7cf.png",
+    "static/media/middle-img.056e616e.png": "/restaurent-two/static/media/middle-img.056e616e.png",
+    "static/media/picp1.c0bdb87a.png": "/restaurent-two/static/media/picp1.c0bdb87a.png",
+    "static/media/picp2.fed3fa12.png": "/restaurent-two/static/media/picp2.fed3fa12.png",
+    "static/media/picp3.2d20e75b.jpg": "/restaurent-two/static/media/picp3.2d20e75b.jpg",
+    "static/media/picp6.1f29f81c.jpg": "/restaurent-two/static/media/picp6.1f29f81c.jpg",
+    "static/media/picp7.20e06a08.jpg": "/restaurent-two/static/media/picp7.20e06a08.jpg",
+    "static/media/picp8.afe90f66.png": "/restaurent-two/static/media/picp8.afe90f66.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45af2610.js",
+    "static/css/2.7104760a.chunk.css",
+    "static/js/2.c4591fb1.chunk.js",
+    "static/css/main.bd37f1ed.chunk.css",
+    "static/js/main.89435db3.chunk.js"
+  ]
+}
