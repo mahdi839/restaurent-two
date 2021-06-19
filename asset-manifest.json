@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/restaurent-two/static/css/main.bd37f1ed.chunk.css",
-    "main.js": "/restaurent-two/static/js/main.89435db3.chunk.js",
-    "main.js.map": "/restaurent-two/static/js/main.89435db3.chunk.js.map",
+    "main.css": "/restaurent-two/static/css/main.cefbaac7.chunk.css",
+    "main.js": "/restaurent-two/static/js/main.69803b30.chunk.js",
+    "main.js.map": "/restaurent-two/static/js/main.69803b30.chunk.js.map",
     "runtime-main.js": "/restaurent-two/static/js/runtime-main.45af2610.js",
     "runtime-main.js.map": "/restaurent-two/static/js/runtime-main.45af2610.js.map",
     "static/css/2.7104760a.chunk.css": "/restaurent-two/static/css/2.7104760a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d39ec810.chunk.js.map": "/restaurent-two/static/js/3.d39ec810.chunk.js.map",
     "index.html": "/restaurent-two/index.html",
     "static/css/2.7104760a.chunk.css.map": "/restaurent-two/static/css/2.7104760a.chunk.css.map",
-    "static/css/main.bd37f1ed.chunk.css.map": "/restaurent-two/static/css/main.bd37f1ed.chunk.css.map",
+    "static/css/main.cefbaac7.chunk.css.map": "/restaurent-two/static/css/main.cefbaac7.chunk.css.map",
     "static/js/2.c4591fb1.chunk.js.LICENSE.txt": "/restaurent-two/static/js/2.c4591fb1.chunk.js.LICENSE.txt",
     "static/media/App.css": "/restaurent-two/static/media/bg2.6316c06c.jpg",
     "static/media/bg.55d66174.jpg": "/restaurent-two/static/media/bg.55d66174.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.45af2610.js",
     "static/css/2.7104760a.chunk.css",
     "static/js/2.c4591fb1.chunk.js",
-    "static/css/main.bd37f1ed.chunk.css",
-    "static/js/main.89435db3.chunk.js"
+    "static/css/main.cefbaac7.chunk.css",
+    "static/js/main.69803b30.chunk.js"
   ]
 }
